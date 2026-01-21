@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "savedAt": "2026-01-21T03:42:33.814Z",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "🆕 Novo projeto iniciado!\n\nDescreva a aplicação que você quer criar."
+    },
+    {
+      "role": "user",
+      "content": "faça um frontend igual a esse DASHBOARD\n📷 [Imagem anexada]",
+      "hasImage": true
+    },
+    {
+      "role": "assistant",
+      "content": "✅ Código gerado! Veja o preview.\n\nQuer que eu faça algum ajuste?"
+    },
+    {
+      "role": "user",
+      "content": "agora complemente com esses outros objetos visuais e depois te mando a imagem de mais coisas que estão para baixo\n📷 [Imagem anexada]",
+      "hasImage": true
+    },
+    {
+      "role": "assistant",
+      "content": "✅ 5 arquivos gerados! Veja na árvore de arquivos.\n\nQuer que eu faça algum ajuste?"
+    },
+    {
+      "role": "user",
+      "content": "você substitui o primeiro dashboard eu quero que adicione na parte de baixo é uma continuação, vou te mandar a primeira imagem novamente, essa primeira imagem é como deve iniciar o dashboard e depois vem os outros objetos\n📷 [Imagem anexada]",
+      "hasImage": true
+    },
+    {
+      "role": "assistant",
+      "content": "✅ 9 arquivos gerados! Veja na árvore de arquivos.\n\nQuer que eu faça algum ajuste?"
+    },
+    {
+      "role": "user",
+      "content": "altere incluindo na parte de baixo mais objetos visuais conforme essa nova imagem\n📷 [Imagem anexada]",
+      "hasImage": true
+    },
+    {
+      "role": "assistant",
+      "content": "✅ 2 arquivos gerados! Veja na árvore de arquivos.\n\nQuer que eu faça algum ajuste?"
+    }
+  ]
+}

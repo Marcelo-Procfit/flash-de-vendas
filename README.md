@@ -1,2 +1,8 @@
 # flash-de-vendas
-Criado com Cosmos App Builder
+
+Projeto criado com **Cosmos App Builder**
+
+## Arquivos
+
+- `src/ChartComponents.jsx`
+- `src/App.jsx`
